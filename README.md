@@ -1,1 +1,1 @@
- - Testing subtree-snapshot relaying - attempt #5
+ - Testing subtree-snapshot tag relaying - attempt #2
